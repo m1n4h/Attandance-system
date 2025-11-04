@@ -1,0 +1,1 @@
+<!-- Footer placeholder. Add your footer HTML here if needed. -->
